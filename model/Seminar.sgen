@@ -1,0 +1,16 @@
+GeneratorModel for yakindu::java {
+
+	statechart Seminar {
+
+		feature Outlet {
+			targetProject = "DS1_Vincent_Jordan"
+			targetFolder = "src-gen"
+			libraryTargetFolder = "src"
+		}
+		
+		//to close the seminar
+		feature GeneralFeatures {
+    		TimerService = true
+		}
+	}
+}

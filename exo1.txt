@@ -1,0 +1,11 @@
+a : meta-metamodel
+b : metamodel
+c : real world object
+d : M3 (meta-metamodeling language)
+e : M2 (metamodeling language)
+f : M1 (modeling language)
+g : M0
+h : conforms to
+i : conforms to
+j : conforms to
+k : describes
